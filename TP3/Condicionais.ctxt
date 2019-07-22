@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Condicionais
+comment1.params=numero
+comment1.target=java.lang.String\ paridade(int)
+comment2.params=numero1\ numero2
+comment2.target=java.lang.String\ maior(int,\ int)
+comment3.params=numero1\ numero2\ numero3
+comment3.target=java.lang.String\ maiorMenor(int,\ int,\ int)
+numComments=4

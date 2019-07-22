@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DouglasEx30">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DouglasEx30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
